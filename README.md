@@ -60,8 +60,7 @@ A: JMS protocol will handle exception we can send messages again
 
 How do you implement LRU or MRU cache?
 
-A:use hashMap and linkedlist data structure. 
-linkedlist to maintain cache and HashMap to quckly get data. 
+A:use LinkedHashMap class in JDK it have implement LRU.  
 
 How would you implement Executor Service?
 
