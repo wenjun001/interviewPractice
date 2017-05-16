@@ -1,4 +1,4 @@
-####Programming Challenge 1:
+#### Programming Challenge 1:
 
 One thread to generated Random Integer. 
 One thread to print result;
@@ -30,7 +30,7 @@ Java_interveiw/pc1/
   
 If have more time we can use distributed server to check make sure the server always avaiable. 
 
-####Programming Challenge 2:
+#### Programming Challenge 2:
 
 1) Reverse of a string without reverse method.
    see the :java_interveiw/pc1/pc2/ReverseUtil.java
@@ -61,7 +61,10 @@ A:firstly we need implment thread pool and then run tasks from client.
 Then implment queue to cache tasks from client.
 
 Describe singleton design pattern – how would you implement?
+
 A:There are three ways to implment it. 
 see my project https://github.com/wenjun001/Singleton
+
 Describe properties of Java String.
+
 A:It's immuablle so it's thread safe.
