@@ -6,8 +6,11 @@ One thread to check whehter primer.
 
 Java_interveiw/pc1/
   Randomizer.java   genrate random and printer result;
+  
   PrimeCheck.java   check whether is prime(use cache to store previous data to speed up)
+  
   Main.java         create thread pool and task to run it.
+  
   
   sample out put:
 
@@ -33,14 +36,19 @@ If have more time we can use distributed server to check make sure the server al
 #### Programming Challenge 2:
 
 1) Reverse of a string without reverse method.
+
    see the :java_interveiw/pc1/pc2/ReverseUtil.java
+   
 2) Find a palindrome
+
    see the :java_interveiw/pc1/pc2/PalindromeCheck.java
+   
 3) Please create a class for the below and send it,
 We have a table which has 4 columns as id, name, phone and address.
 You need to have a method which will return me the data.
 Create a method where you can hard code the data and print the details.
 The main aim of above example is how you use data structure.
+
 see the see the :java_interveiw/pc1/pc2/DBUtil.java
 
 #### Question
